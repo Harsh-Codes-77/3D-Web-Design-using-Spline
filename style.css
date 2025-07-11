@@ -187,8 +187,8 @@ main{
 
 .robot-3d{
     position: absolute;
-    top: 5%;
-    right: -20%;
+    top: 3%;
+    right: -30%;
 }
 
 @media (max-width: 1024px) {
